@@ -1,1 +1,3 @@
-Itutor app for GCP project
+Yututor demo app for GCP project
+
+https://itutor-app.vercel.app/
