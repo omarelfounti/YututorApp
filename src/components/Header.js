@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>iTutor App</h1>
+      <h1>YuTutor App</h1>
     </header>
   );
 };
