@@ -5,7 +5,7 @@ body {
   }
   
   .app {
-    background-color: #f5f5f5;
+    background-color: #yellow;
   }
   
   .app-container {
@@ -13,7 +13,7 @@ body {
   }
   
   header {
-    background-color: #333;
+    background-color: #green;
     color: #fff;
     padding: 20px;
   }
@@ -23,9 +23,9 @@ body {
   }
   
   aside {
-    background-color: #eee;
+    background-color: #lightgreen;
     width: 200px;
-    padding: 20px;
+    padding: 25px;
   }
   
   aside ul {
@@ -34,12 +34,12 @@ body {
   }
   
   aside li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     cursor: pointer;
   }
   
   main {
     flex: 1;
-    padding: 20px;
+    padding: 25px;
   }
   
