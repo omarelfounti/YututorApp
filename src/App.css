@@ -9,7 +9,7 @@
 }
 
 .calendar-container {
-  display: flex;
+  display: grid;
   justify-content: center;
   align-items: flex-start;
   width: 250px;
