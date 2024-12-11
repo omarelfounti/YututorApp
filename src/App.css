@@ -1,9 +1,6 @@
 .app-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 1fr);
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   align-items: center;
   margin-top: 50px;
 }
