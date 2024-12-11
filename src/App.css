@@ -1,14 +1,14 @@
 .app-container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   align-items: center;
   margin-top: 50px;
 }
 
 .calendar-container {
-  display: flex;
+  display: grid;
   justify-content: center;
-  align-items: flex-start;
+  align-items: start;
   width: 250px;
   height: 300px;
   border: 1px solid #ccc;
