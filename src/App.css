@@ -2,16 +2,16 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 50px;
+  margin-top: 70px;
 }
 
 .calendar-container {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  width: 250px;
-  height: 300px;
-  border: 1px solid #ccc;
-  padding: 10px;
+  width: 275px;
+  height: 305px;
+  border: 2px solid #ccc;
+  padding: 12px;
   font-family: Arial, sans-serif;
 }
